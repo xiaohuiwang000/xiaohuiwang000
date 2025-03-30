@@ -1,4 +1,4 @@
-<img src="./intro.gif" width="600">  
+<img src="./intro.gif" width="500">  
 
 - 🌱 I’m currently a third-year undergraduate student at **Fudan University**.  
 - ⚡ I’m passionate about **Efficient AI** and **Multi-Modal AI**.  
