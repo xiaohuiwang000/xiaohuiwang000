@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<img src="./intro.gif" width="300">  
+
+- 🌱 I’m currently a third-year undergraduate student at **Fudan University**.  
+- ⚡ I’m passionate about **Efficient AI** and **Multi-Modal AI**.  
+- 🔭 My Homepage: [xiaohuiwang000.github.io]([#](https://xiaohuiwang000.github.io/))  
+- 📫 How to reach me: **heatherwang000@gmail.com**
+  
 <!--
 **xiaohuiwang000/xiaohuiwang000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
