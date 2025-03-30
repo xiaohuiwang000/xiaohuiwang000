@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=xiaohuiwang000&locale=en&line_height=33&show_icons=true&hide=contribs,issues&theme=dark&rank_icon=default"/>
 <!--
 **xiaohuiwang000/xiaohuiwang000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
