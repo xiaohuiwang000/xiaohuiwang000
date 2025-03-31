@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently a third-year undergraduate student at **Fudan University**.  
 - ⚡ I’m passionate about **Efficient AI** and **Multi-Modal AI**.  
-- 🔭 My Homepage: [xiaohuiwang000.github.io](https://xiaohuiwang000.github.io/)
+- 🔭 My Homepage: **[xiaohuiwang000.github.io](https://xiaohuiwang000.github.io/)**
 - 📫 How to reach me: **heatherwang000@gmail.com**
   
 <!--
